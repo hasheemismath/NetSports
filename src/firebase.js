@@ -4,13 +4,15 @@ import 'firebase/database'
 import 'firebase/auth'
 
 const config = {
-    apiKey: "AIzaSyDYiC4o4i1r3Hge4sdXEalB10KQ9rIWyQ0",
-    authDomain: "m-city-7874a.firebaseapp.com",
-    databaseURL: "https://m-city-7874a.firebaseio.com",
-    projectId: "m-city-7874a",
-    storageBucket: "m-city-7874a.appspot.com",
-    messagingSenderId: "669950819399"
-  };
+    apiKey: "AIzaSyCyh-XJah9G2l5K4OkXjP6ud9UopVRTtio",
+    authDomain: "sports-club-70237.firebaseapp.com",
+    databaseURL: "https://sports-club-70237.firebaseio.com",
+    projectId: "sports-club-70237",
+    storageBucket: "sports-club-70237.appspot.com",
+    messagingSenderId: "1053249615904",
+    appId: "1:1053249615904:web:d9df295f5430589d1ea445",
+    measurementId: "G-QEK3H9KDLG"
+};
 
 firebase.initializeApp(config);
 
